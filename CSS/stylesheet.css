@@ -1,0 +1,202 @@
+
+
+header{
+    height: 3cm;
+  width:1000px;
+}
+header div{
+    width:1000px;
+    display: inline;
+    position: relative;
+    top: 1cm;
+    align-items: center;
+}
+#sec1{
+  left: 3.5cm;
+    float: right;
+    position: relative;
+   right: 5cm;
+   margin-right: 2px;
+  top: .5cm;
+}
+#sec2{
+    display: inline;
+    float:right;
+    position: relative;
+      top: .5cm;
+      right: 0cm;
+      left: 9.5cm;
+}
+#sec3{
+    position: relative;
+    left: 5cm;
+ 
+    
+}
+#sec3 img{
+    position: relative;
+    display: inline;
+    width: 5%;
+    
+ 
+
+}
+ #firstp{
+    display: inline;
+    position: relative;
+    left: 0cm;
+    bottom:  .5cm;
+    font-style:italic ;
+    font-size: 1cm;
+
+}
+#secondp{
+display: inline;
+position: relative;
+right: 4cm;
+}
+main{
+    position: relative;
+    left:5cm;
+    top: 1cm;
+    min-height: 40cm;
+}
+main div:nth-child(1) h1{
+    font-size: 1cm;
+    font-family:fantasy;
+}
+main div section {
+    float: right;
+    position: relative;
+    right: 9.5cm;
+    display: inline;
+    
+}
+main div section p{
+    position: relative;
+    display: inline;
+    color: gray;
+    font-family:;
+}
+#maindiv{
+    width: 1000px;
+    margin-bottom: 2cm;
+}
+#maindiv img {
+    
+    position: relative;
+    top: 1cm;
+    width: 100%;
+}
+#secondmainsec{
+position: relative;
+width: 1000px;
+font-size: larger;
+
+}
+#one{
+width: 500px;
+background-image:url("../images/list-bg.png");
+float: left;
+left: 0cm;
+}
+#ff{
+   
+    position: relative;
+    left: 2cm;
+    top: 1cm;
+    font-size: .6cm;
+    font-style: oblique;
+    height:6cm;
+}
+
+#ff label{
+    margin: 5px;
+}
+#ff input{
+margin-bottom: 10px;
+}
+
+
+
+#second{
+    width: 500px;
+    background-image:url("../images/list-bg.png");
+    float: right;
+    right:10cm;
+    }
+#sf{
+
+    position: relative;
+    left: 2cm;
+    top: 1cm;
+    font-size: .6cm;
+    font-style: oblique;
+    height:6cm;
+}
+
+#sf label{
+    margin: 5px;
+}
+#sf input{
+margin-bottom: 10px;
+}
+
+button{
+    background-color: rgb(245, 83, 83);
+    display: inline;
+  
+    float: right;
+  position: relative;
+   right: 4cm ;
+    width: 5cm;
+    height: 3cm;
+    font-size: xx-large;
+}
+footer img{
+    float: left;
+    width: 3cm;
+    position: relative;
+    left: 4cm;
+}
+button:hover{
+    color: yellow;
+   
+}
+footer{
+    
+    height: 4cm;
+}
+footer p{
+    display: inline;
+    position: relative;
+    top: 1cm;
+    right: 3cm;
+font-size: .5cm;
+margin-top: 0;
+}
+#name1{
+    display: inline;
+  left:  4cm;
+  position: relative;
+top: 3px;
+font-size: 1cm;
+margin-bottom: 0;
+}
+#copy{
+    display: inline;
+    position: relative;
+    top: 4cm;
+
+}
+#copy img{
+    position: relative;
+width: 30px;
+height: 30px;
+bottom: .2cm ;
+left: 15cm;
+}
+#copy p{
+    position: relative;
+    left: 13cm;
+}
